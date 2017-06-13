@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "Steaming hot cup of coffee",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "EUR",
+    "price": "2.50"
+  }
+}

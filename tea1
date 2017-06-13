@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "Tea - Earl grey - Hot",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "EUR",
+    "price": "2.20"
+    }
+}

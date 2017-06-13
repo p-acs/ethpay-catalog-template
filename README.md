@@ -1,0 +1,1 @@
+# ethpay-catalog-template
